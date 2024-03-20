@@ -27,8 +27,8 @@ app.config[
 
 db = SQLAlchemy(app)
 
-access_key_id = 'LTAI5t7ESqGvfY2dWL1QParn'
-access_key_secret = 'QVCUejyvokL7rCdAeDFvGxE5TqDfBu'
+access_key_id = '123'
+access_key_secret = '123'
 
 # 填写自己的 Bucket 名称和上传地址
 bucket_name = 'my-yi-yang'
